@@ -1,4 +1,4 @@
-#air -hockey-
+# air -hockey-
 Pygame module must be installed prior to running airHockey.py
 Read the instructions below to install pygame.
 
