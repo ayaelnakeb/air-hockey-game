@@ -82,7 +82,7 @@ Classes:
 		updates the position of the player. It also handles the 
 		odd parts like interaction with the walls and obstructing 
 		movement into the computers half 
-Class Comp: 
+6. Class Comp: 
 	This class deals with the interaction of the computer striker in the 
 	game. The computer follows the movement of the puck and tries to 
 	score in the on the player's half
