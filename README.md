@@ -6,11 +6,13 @@ I have always been passionate about hockey and the thrill of competitive sports.
 
 
 ## Features
-Real-Time Gameplay: Experience the fast-paced action of air hockey with continuously moving puck and responsive player controls.
-Intelligent AI Opponent: The computer-controlled striker uses a predictive heuristic to anticipate and intercept the puck.
-Score Tracking and Timer: Keep track of the scores and a countdown timer that limits the game to three minutes.
-Dynamic Collision Handling: Realistic puck collisions with walls and strikers are handled using vector mathematics.
-Optional Sound Effects: Basic sound generation enhances the immersive experience.
+**Real-Time Gameplay:** Experience the fast-paced action of air hockey with continuously moving puck and responsive player controls.
+
+**Intelligent AI Opponent:** The computer-controlled striker uses a predictive heuristic to anticipate and intercept the puck.
+
+**Score Tracking and Timer:** Keep track of the scores and a countdown timer that limits the game to three minutes.
+
+**Dynamic Collision Handling:** Realistic puck collisions with walls and strikers are handled using vector mathematics.
 
 -------------------------
 
@@ -18,9 +20,13 @@ Optional Sound Effects: Basic sound generation enhances the immersive experience
 This project leverages a range of technologies to bring the Air Hockey simulation to life:
 
 **Python 3:** The primary programming language used for implementing game logic and AI.
+
 **Pygame:** A set of Python modules designed for writing video games; it handles graphics, input, and sound, providing a framework for building the game.
+
 **NumPy:** Utilized for generating sound effects by creating and manipulating numerical arrays representing audio samples.
+
 **Git & GitHub:** Version control tools used for managing the codebase and collaborating on the project.
+
 **Predictive Modeling:** A heuristic-based approach used in the AI opponent to anticipate the puck’s movement and dynamically adjust its position.
 
 -------------------------
@@ -57,7 +63,7 @@ _Note: If you encounter issues installing pygame on Mac using the first method, 
 Running the Game
 ----------------
 
-1.  **Clone or Download the Repository:**Ensure that the following files are in the same directory:
+1.  **Clone or Download the Repository:** Ensure that the following files are in the same directory:
     
     *   airHockey.py
         
