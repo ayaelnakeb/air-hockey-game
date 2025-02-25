@@ -17,6 +17,7 @@ I have always been passionate about hockey and the thrill of competitive sports.
 -------------------------
 
 ## Technologies Used
+
 This project leverages a range of technologies to bring the Air Hockey simulation to life:
 
 **Python 3:** The primary programming language used for implementing game logic and AI.
