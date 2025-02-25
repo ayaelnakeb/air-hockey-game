@@ -1,6 +1,6 @@
 ## Inspiration:
 
-I have always been passionate about hockey and the thrill of competitive sports. This project was born out of my love for the game and a desire to create a challenging simulation where you can play against a dynamic AI opponent. The game leverages predictive modeling for the AI, allowing it to anticipate the puck’s trajectory and react in real time, making for an exciting and fast-paced match.
+I have always been passionate about hockey and the thrill of competitive sports. This project was born out of my love for the game and a desire to create a challenging simulation where you can play against a dynamic AI opponent. The game leverages predictive modeling for the AI, allowing it to anticipate the puck’s trajectory and react in real-time, making for an exciting and fast-paced match.
 
 -------------------------
 
