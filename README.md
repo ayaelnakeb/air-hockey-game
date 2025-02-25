@@ -6,6 +6,7 @@ I have always been passionate about hockey and the thrill of competitive sports.
 
 
 ## Features
+
 **Real-Time Gameplay:** Experience the fast-paced action of air hockey with continuously moving puck and responsive player controls.
 
 **Intelligent AI Opponent:** The computer-controlled striker uses a predictive heuristic to anticipate and intercept the puck.
