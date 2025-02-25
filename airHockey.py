@@ -7,7 +7,9 @@ from pygame.locals import*
 def main():
     pygame.init()
     #sets the display 
-    disp = pygame.display.set_mode((800, 400))
+    table_image, table_rect = load_img('table.png')
+
+    disp = pygame.display.set_mode(table_rect.size)
     pygame.display.set_caption('Air hockey')
 
     #creates the backgroud table 
